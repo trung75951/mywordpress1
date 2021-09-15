@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; My Wordpress &#8212; WordPress</title>
+	<title>Log In &lsaquo; TRAVEL-PAGES &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="http://trung75951.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="http://trung75951.github.io/mywordpress/">&larr; Go to My Wordpress</a>		</p>
+			<a href="http://trung75951.github.io/mywordpress/">&larr; Go to TRAVEL-PAGES</a>		</p>
 			</div>
 	<script src="http://trung75951.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script src="http://trung75951.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -93,9 +93,6 @@ var userProfileL10n = {"user_id":"0","nonce":"29d0bc45a6"};
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
 <script src="http://trung75951.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
-			<script>
-			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-			</script>
-				<div class="clear"></div>
+	<div class="clear"></div>
 	</body>
 	</html>

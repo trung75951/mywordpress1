@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>tuphuoctrung &#8211; TRAVEL-PAGES</title>
-	<atom:link href="http://localhost/myproject/wordpress/author/tuphuoctrung/feed/" rel="self" type="application/rss+xml" />
+	<title>Du Lịch và Khám Phá &#8211; TRAVEL-PAGES</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/du-lich-va-kham-pha/feed/" rel="self" type="application/rss+xml" />
 	<link>http://trung75951.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 01:54:02 +0000</lastBuildDate>
