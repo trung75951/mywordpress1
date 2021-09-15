@@ -10,7 +10,7 @@
 <channel>
 	<title>tuphuoctrung &#8211; TRAVEL-PAGES</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/tuphuoctrung/feed/" rel="self" type="application/rss+xml" />
-	<link>http://trung75951.github.io/mywordpress</link>
+	<link>https://trung75951.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 15 Sep 2021 01:54:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>DU LỊCH VÀ KHÁM PHÁ DANH LAM THẮNG CẢNH</title>
-		<link>http://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/</link>
-					<comments>http://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/#respond</comments>
+		<link>https://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/</link>
+					<comments>https://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/#respond</comments>
 		
 		<dc:creator><![CDATA[tuphuoctrung]]></dc:creator>
 		<pubDate>Wed, 25 Aug 2021 01:59:00 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<category><![CDATA[Du Lịch và Khám Phá]]></category>
-		<guid isPermaLink="false">http://trung75951.github.io/mywordpress/?p=1437</guid>
+		<guid isPermaLink="false">https://trung75951.github.io/mywordpress/?p=1437</guid>
 
 					<description><![CDATA[Tại sao bạn nên đi du lịch thường xuyên ? Đi du lịch không chỉ để khám phá những vùng đất mới, thêm hiểu và thêm yêu những mảnh đất, con người của quê hương mình, thưởng thức những món ăn ngon và giúp chúng ta khám phá khả năng của chính bản thân mình. [&#8230;]]]></description>
 		
-					<wfw:commentRss>http://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/feed/</wfw:commentRss>
+					<wfw:commentRss>https://trung75951.github.io/mywordpress/du-lich-va-kham-pha-danh-lam-thang-canh/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
